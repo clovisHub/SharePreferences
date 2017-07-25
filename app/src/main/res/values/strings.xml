@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharePreference</string>
+    <string name="btn_read_last_name">Display last N</string>
+    <string name="btn_read_name">Display name</string>
+    <string name="btn_save_info">Save Info</string>
+    <string name="btn_upload">Upload</string>
+</resources>
